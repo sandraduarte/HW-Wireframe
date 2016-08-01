@@ -1,0 +1,116 @@
+/**
+ * HW-WIREFRAME
+ **/
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+
+body {
+	background: #777;
+	font-size: 24px;
+	line-height: 32px;
+	color: #333;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	width:960px;
+
+}
+header {
+	background: #ebebeb;
+	padding: 20px;
+	margin-bottom: 20px;
+	color: #333;
+}
+
+nav {
+	background: #ebebeb;
+	padding: 20px;
+	margin-bottom: 20px;
+	color: #333;
+}
+
+
+section {
+	padding: 20px;
+	background: #ebebeb;
+	margin-bottom: 20px;
+	width:495px;
+}
+
+
+aside {
+	padding: 20px;
+	background: #ebebeb;
+	margin-bottom: 20px;
+	width:495px;
+
+	
+}
+
+footer {
+	background: #ebebeb;
+	padding: 20px;
+	clear: both;
+}
+
+article {
+	padding: 20px;
+	width: 425px;
+	background: #666;
+	color: #333;
+	height: 225px;
+}
+
+
+p {
+	padding: 10px;
+	width: 390px;
+	background: #ebebeb;
+	color: #333;
+	height: 50px;
+}
+
+#section {
+	padding: 20px;
+	background: #ebebeb;
+	margin-bottom: 20px;
+	width:495px;
+	height: 400px;
+}
+
+#left {
+	float: left;
+	width: 49%;
+	color: #333;
+	height: 300px;
+
+}
+
+#right {
+	float: right;
+	width: 49%;
+	color: #333;
+	height: 300px;
+
+}
+
+#full {
+	clear: both;
+	width: 100%;
+	background: #eee;
+	overflow: auto;
+}
+#division {
+	background: #6ea3da;
+	padding: 20px;
+	margin-top: 20px;
+}
+
+
+.clearfix {
+	overflow:auto;
+
+}
